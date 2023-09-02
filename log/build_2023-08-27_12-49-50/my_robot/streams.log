@@ -1,0 +1,35 @@
+[0.599s] Invoking command in '/home/zukunft/robot_sim/my_robot': PYTHONPATH=/home/zukunft/robot_sim/build/my_robot/prefix_override:/home/zukunft/robot_sim/install/my_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_robot build --build-base /home/zukunft/robot_sim/build/my_robot/build install --record /home/zukunft/robot_sim/build/my_robot/install.log --single-version-externally-managed
+[0.801s] running egg_info
+[0.802s] creating ../build/my_robot/my_robot.egg-info
+[0.802s] writing ../build/my_robot/my_robot.egg-info/PKG-INFO
+[0.802s] writing dependency_links to ../build/my_robot/my_robot.egg-info/dependency_links.txt
+[0.803s] writing entry points to ../build/my_robot/my_robot.egg-info/entry_points.txt
+[0.803s] writing requirements to ../build/my_robot/my_robot.egg-info/requires.txt
+[0.803s] writing top-level names to ../build/my_robot/my_robot.egg-info/top_level.txt
+[0.803s] writing manifest file '../build/my_robot/my_robot.egg-info/SOURCES.txt'
+[0.804s] reading manifest file '../build/my_robot/my_robot.egg-info/SOURCES.txt'
+[0.805s] writing manifest file '../build/my_robot/my_robot.egg-info/SOURCES.txt'
+[0.805s] running build
+[0.805s] running build_py
+[0.805s] creating /home/zukunft/robot_sim/build/my_robot/build
+[0.805s] creating /home/zukunft/robot_sim/build/my_robot/build/lib
+[0.805s] creating /home/zukunft/robot_sim/build/my_robot/build/lib/my_robot
+[0.805s] copying my_robot/__init__.py -> /home/zukunft/robot_sim/build/my_robot/build/lib/my_robot
+[0.805s] running install
+[0.805s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.805s]   warnings.warn(
+[0.805s] running install_lib
+[0.806s] creating /home/zukunft/robot_sim/install/my_robot/lib/python3.10/site-packages/my_robot
+[0.806s] copying /home/zukunft/robot_sim/build/my_robot/build/lib/my_robot/__init__.py -> /home/zukunft/robot_sim/install/my_robot/lib/python3.10/site-packages/my_robot
+[0.807s] byte-compiling /home/zukunft/robot_sim/install/my_robot/lib/python3.10/site-packages/my_robot/__init__.py to __init__.cpython-310.pyc
+[0.807s] running install_data
+[0.807s] creating /home/zukunft/robot_sim/install/my_robot/share/ament_index
+[0.807s] creating /home/zukunft/robot_sim/install/my_robot/share/ament_index/resource_index
+[0.807s] creating /home/zukunft/robot_sim/install/my_robot/share/ament_index/resource_index/packages
+[0.807s] copying resource/my_robot -> /home/zukunft/robot_sim/install/my_robot/share/ament_index/resource_index/packages
+[0.808s] copying package.xml -> /home/zukunft/robot_sim/install/my_robot/share/my_robot
+[0.808s] running install_egg_info
+[0.809s] Copying ../build/my_robot/my_robot.egg-info to /home/zukunft/robot_sim/install/my_robot/lib/python3.10/site-packages/my_robot-0.0.0-py3.10.egg-info
+[0.809s] running install_scripts
+[0.829s] writing list of installed files to '/home/zukunft/robot_sim/build/my_robot/install.log'
+[0.868s] Invoked command in '/home/zukunft/robot_sim/my_robot' returned '0': PYTHONPATH=/home/zukunft/robot_sim/build/my_robot/prefix_override:/home/zukunft/robot_sim/install/my_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_robot build --build-base /home/zukunft/robot_sim/build/my_robot/build install --record /home/zukunft/robot_sim/build/my_robot/install.log --single-version-externally-managed

@@ -1,0 +1,14 @@
+running develop
+running egg_info
+writing sensors.egg-info/PKG-INFO
+writing dependency_links to sensors.egg-info/dependency_links.txt
+writing entry points to sensors.egg-info/entry_points.txt
+writing requirements to sensors.egg-info/requires.txt
+writing top-level names to sensors.egg-info/top_level.txt
+reading manifest file 'sensors.egg-info/SOURCES.txt'
+writing manifest file 'sensors.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/zukunft/projects/robotics/robot_basic_simulation/install/sensors/lib/python3.10/site-packages/sensors.egg-link (link to .)
+
+Installed /home/zukunft/projects/robotics/robot_basic_simulation/build/sensors
+running install_data

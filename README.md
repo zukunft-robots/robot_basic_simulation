@@ -54,3 +54,19 @@ Task 3 :- Implement Robot Controller
 	-> run command in workspace to launch gazebo ros2 launch my_robot gazebo.launch.py 
 	-> run command in another terminal inside the workspace to make basic movement for robot ros2 run robot_controller basic_movement (or) ros2 run robot_controller basic_movement --ros-args -r /cmd_vel:=/demo/cmd_demo 
     -> ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -r /cmd_vel:=/demo/cmd_demo   (teleoperation keyboard)
+
+
+	#Important ros commands :
+	1. To create a pkg : <ros2 pkg create --build-type ament_python <package name>>
+	2. To build : <colcon build>   ---> first go to root directory of project
+
+		if you want to build with symlink use <colcon build --symlink-install> 
+
+	3. To Source : <source install/setup.bash>
+				   <source /opt/ros/humble/setup.bash>
+	4. To run a Node : go to folder where your nodes are declared ---->  <python3 filename.py>
+	5. To list all topics : ros2 topic list
+	6. To listen : <ros2 topic echo <topic name>>
+
+
+

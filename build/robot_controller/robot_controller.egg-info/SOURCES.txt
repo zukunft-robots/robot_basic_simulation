@@ -11,6 +11,10 @@ setup.py
 resource/robot_controller
 robot_controller/__init__.py
 robot_controller/controller.py
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py
+robot_controller.egg-info/PKG-INFO
+robot_controller.egg-info/SOURCES.txt
+robot_controller.egg-info/dependency_links.txt
+robot_controller.egg-info/entry_points.txt
+robot_controller.egg-info/requires.txt
+robot_controller.egg-info/top_level.txt
+robot_controller.egg-info/zip-safe

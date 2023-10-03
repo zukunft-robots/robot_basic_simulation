@@ -1,0 +1,20 @@
+[1.039s] Invoking command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/sensors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/build --no-deps install_data
+[1.289s] running develop
+[1.290s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.290s]   warnings.warn(
+[1.291s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.291s]   warnings.warn(
+[1.446s] running egg_info
+[1.447s] writing sensors.egg-info/PKG-INFO
+[1.447s] writing dependency_links to sensors.egg-info/dependency_links.txt
+[1.447s] writing entry points to sensors.egg-info/entry_points.txt
+[1.447s] writing requirements to sensors.egg-info/requires.txt
+[1.447s] writing top-level names to sensors.egg-info/top_level.txt
+[1.449s] reading manifest file 'sensors.egg-info/SOURCES.txt'
+[1.450s] writing manifest file 'sensors.egg-info/SOURCES.txt'
+[1.452s] running build_ext
+[1.452s] Creating /home/zukunft/projects/robotics/robot_basic_simulation/src/install/sensors/lib/python3.10/site-packages/sensors.egg-link (link to .)
+[1.453s] 
+[1.453s] Installed /home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors
+[1.453s] running install_data
+[1.532s] Invoked command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors' returned '0': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/sensors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/build --no-deps install_data

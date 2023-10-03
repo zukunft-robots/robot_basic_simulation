@@ -3,6 +3,8 @@
 
     <xacro:include filename="inertial_macros.xacro"/>
 
+    <!-- chasis color -->
+
     <material name="white">
         <color rgba="1 1 1 1" />
     </material>
@@ -26,6 +28,17 @@
     <!-- BASE LINK -->
 
     <link name="base_link">
+
+    </link>
+
+    <!-- Base foot print link for slam application-->
+    <joint name="base_footprint_joint" type="fixed">
+        <parent link="base_link"/>
+        <child link="base_footprint"/>
+        <origin xyz="0 0 0"/>
+    </joint>
+
+    <link name="base_footprint">
 
     </link>
 

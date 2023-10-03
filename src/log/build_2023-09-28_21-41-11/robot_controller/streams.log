@@ -1,0 +1,21 @@
+[1.059s] Invoking command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/build/robot_controller': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/robot_controller/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/src/build/robot_controller/build --no-deps install_data
+[1.302s] running develop
+[1.304s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.304s]   warnings.warn(
+[1.306s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.306s]   warnings.warn(
+[1.456s] running egg_info
+[1.456s] writing robot_controller.egg-info/PKG-INFO
+[1.457s] writing dependency_links to robot_controller.egg-info/dependency_links.txt
+[1.457s] writing entry points to robot_controller.egg-info/entry_points.txt
+[1.457s] writing requirements to robot_controller.egg-info/requires.txt
+[1.457s] writing top-level names to robot_controller.egg-info/top_level.txt
+[1.459s] reading manifest file 'robot_controller.egg-info/SOURCES.txt'
+[1.464s] writing manifest file 'robot_controller.egg-info/SOURCES.txt'
+[1.466s] running build_ext
+[1.466s] Creating /home/zukunft/projects/robotics/robot_basic_simulation/src/install/robot_controller/lib/python3.10/site-packages/robot-controller.egg-link (link to .)
+[1.467s] Installing basic_movement script to /home/zukunft/projects/robotics/robot_basic_simulation/src/install/robot_controller/lib/robot_controller
+[1.468s] 
+[1.468s] Installed /home/zukunft/projects/robotics/robot_basic_simulation/src/build/robot_controller
+[1.468s] running install_data
+[1.518s] Invoked command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/build/robot_controller' returned '0': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/robot_controller/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/src/build/robot_controller/build --no-deps install_data

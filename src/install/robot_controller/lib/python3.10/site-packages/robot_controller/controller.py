@@ -8,8 +8,8 @@ class RobotController(Node):
         super().__init__('robot_controller')
         self.publisher_ = self.create_publisher(Twist, 'cmd_vel', 10)
         self.timer_ = self.create_timer(0.1, self.move_robot)
-        self.linear_speed_ = 0.2  # m/s
-        self.angular_speed_ = 0.2  # rad/s
+        self.linear_speed_ = 0.0  # m/s
+        self.angular_speed_ = 0.0  # rad/s
 
     def move_robot(self):
         msg = Twist()

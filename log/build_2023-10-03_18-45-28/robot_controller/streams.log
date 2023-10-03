@@ -1,0 +1,39 @@
+[1.020s] Invoking command in '/home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/build
+[1.219s] running develop
+[1.220s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.220s]   warnings.warn(
+[1.221s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.221s]   warnings.warn(
+[1.336s] Removing /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages/robot-controller.egg-link (link to .)
+[1.412s] Invoked command in '/home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller' returned '0': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/build
+[1.414s] Invoking command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/robot_controller': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_controller build --build-base /home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/build install --record /home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/install.log --single-version-externally-managed
+[1.586s] running egg_info
+[1.586s] writing ../../build/robot_controller/robot_controller.egg-info/PKG-INFO
+[1.587s] writing dependency_links to ../../build/robot_controller/robot_controller.egg-info/dependency_links.txt
+[1.587s] writing entry points to ../../build/robot_controller/robot_controller.egg-info/entry_points.txt
+[1.587s] writing requirements to ../../build/robot_controller/robot_controller.egg-info/requires.txt
+[1.587s] writing top-level names to ../../build/robot_controller/robot_controller.egg-info/top_level.txt
+[1.589s] reading manifest file '../../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[1.596s] writing manifest file '../../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[1.597s] running build
+[1.597s] running build_py
+[1.597s] running install
+[1.597s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.598s]   warnings.warn(
+[1.598s] running install_lib
+[1.598s] creating /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[1.598s] copying /home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/build/lib/robot_controller/__init__.py -> /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[1.599s] copying /home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/build/lib/robot_controller/controller.py -> /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[1.599s] byte-compiling /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages/robot_controller/__init__.py to __init__.cpython-310.pyc
+[1.599s] byte-compiling /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages/robot_controller/controller.py to controller.cpython-310.pyc
+[1.600s] running install_data
+[1.600s] running install_egg_info
+[1.602s] Copying ../../build/robot_controller/robot_controller.egg-info to /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages/robot_controller-0.0.0-py3.10.egg-info
+[1.602s] running install_scripts
+[1.622s] Installing basic_movement script to /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller
+[1.622s] Installing cam_pub script to /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller
+[1.622s] Installing cam_sub script to /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller
+[1.622s] Installing lid_pub script to /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller
+[1.622s] Installing lid_sub script to /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller
+[1.622s] writing list of installed files to '/home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/install.log'
+[1.680s] Invoked command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/robot_controller' returned '0': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_controller build --build-base /home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/build install --record /home/zukunft/projects/robotics/robot_basic_simulation/build/robot_controller/install.log --single-version-externally-managed

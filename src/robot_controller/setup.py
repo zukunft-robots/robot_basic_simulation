@@ -21,6 +21,11 @@ setup(
     entry_points={
         'console_scripts': [
                 'basic_movement = robot_controller.controller:main',
+                'cam_pub = sensors.camera_pub:main',
+                'cam_sub = sensors.camera_sub:main',
+                'lid_pub = sensors.lidar_pub:main',
+                'lid_sub = sensors.lidar_sub:main',
+            
         ],
     },
 )

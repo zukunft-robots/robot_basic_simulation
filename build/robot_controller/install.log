@@ -12,3 +12,7 @@
 /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages/robot_controller-0.0.0-py3.10.egg-info/SOURCES.txt
 /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/python3.10/site-packages/robot_controller-0.0.0-py3.10.egg-info/dependency_links.txt
 /home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller/basic_movement
+/home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller/cam_pub
+/home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller/cam_sub
+/home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller/lid_pub
+/home/zukunft/projects/robotics/robot_basic_simulation/install/robot_controller/lib/robot_controller/lid_sub

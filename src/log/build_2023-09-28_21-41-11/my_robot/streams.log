@@ -1,0 +1,20 @@
+[1.087s] Invoking command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/build/my_robot': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/my_robot/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/my_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/src/build/my_robot/build --no-deps install_data
+[1.341s] running develop
+[1.341s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.341s]   warnings.warn(
+[1.342s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.342s]   warnings.warn(
+[1.495s] running egg_info
+[1.495s] writing my_robot.egg-info/PKG-INFO
+[1.495s] writing dependency_links to my_robot.egg-info/dependency_links.txt
+[1.495s] writing entry points to my_robot.egg-info/entry_points.txt
+[1.496s] writing requirements to my_robot.egg-info/requires.txt
+[1.496s] writing top-level names to my_robot.egg-info/top_level.txt
+[1.499s] reading manifest file 'my_robot.egg-info/SOURCES.txt'
+[1.500s] writing manifest file 'my_robot.egg-info/SOURCES.txt'
+[1.502s] running build_ext
+[1.503s] Creating /home/zukunft/projects/robotics/robot_basic_simulation/src/install/my_robot/lib/python3.10/site-packages/my-robot.egg-link (link to .)
+[1.503s] 
+[1.504s] Installed /home/zukunft/projects/robotics/robot_basic_simulation/src/build/my_robot
+[1.504s] running install_data
+[1.591s] Invoked command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/build/my_robot' returned '0': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/my_robot/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/my_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/src/build/my_robot/build --no-deps install_data

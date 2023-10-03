@@ -43,7 +43,7 @@
                     <max>12</max>
                 </range>
             </ray>
-            <plugin name="laser_controller" filename="gazelibbo_ros_ray_sensor.so">
+            <plugin name="laser_controller" filename="libgazebo_ros_ray_sensor.so">
                 <ros>
                     <argument>~/out:=scan</argument>
                 </ros>

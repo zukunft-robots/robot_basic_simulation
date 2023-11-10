@@ -43,5 +43,5 @@ def generate_launch_description():
         rsp,
         gazebo,
         spawn_entity,
-        velocity_controller_node,
+        #velocity_controller_node,
     ])

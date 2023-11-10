@@ -1,0 +1,29 @@
+[0.996s] Invoking command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/sensors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/build
+[1.206s] running develop
+[1.207s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.207s]   warnings.warn(
+[1.208s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.208s]   warnings.warn(
+[1.393s] Invoked command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors' returned '0': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/sensors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/build
+[1.396s] Invoking command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/sensors': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/sensors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/sensors build --build-base /home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/build install --record /home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/install.log --single-version-externally-managed
+[1.583s] running egg_info
+[1.583s] writing ../build/sensors/sensors.egg-info/PKG-INFO
+[1.584s] writing dependency_links to ../build/sensors/sensors.egg-info/dependency_links.txt
+[1.584s] writing entry points to ../build/sensors/sensors.egg-info/entry_points.txt
+[1.584s] writing requirements to ../build/sensors/sensors.egg-info/requires.txt
+[1.584s] writing top-level names to ../build/sensors/sensors.egg-info/top_level.txt
+[1.585s] reading manifest file '../build/sensors/sensors.egg-info/SOURCES.txt'
+[1.586s] writing manifest file '../build/sensors/sensors.egg-info/SOURCES.txt'
+[1.586s] running build
+[1.586s] running build_py
+[1.586s] running install
+[1.586s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.586s]   warnings.warn(
+[1.586s] running install_lib
+[1.588s] running install_data
+[1.588s] running install_egg_info
+[1.590s] removing '/home/zukunft/projects/robotics/robot_basic_simulation/src/install/sensors/lib/python3.10/site-packages/sensors-0.0.0-py3.10.egg-info' (and everything under it)
+[1.590s] Copying ../build/sensors/sensors.egg-info to /home/zukunft/projects/robotics/robot_basic_simulation/src/install/sensors/lib/python3.10/site-packages/sensors-0.0.0-py3.10.egg-info
+[1.590s] running install_scripts
+[1.613s] writing list of installed files to '/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/install.log'
+[1.653s] Invoked command in '/home/zukunft/projects/robotics/robot_basic_simulation/src/sensors' returned '0': PYTHONPATH=/home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/prefix_override:/home/zukunft/projects/robotics/robot_basic_simulation/src/install/sensors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/sensors build --build-base /home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/build install --record /home/zukunft/projects/robotics/robot_basic_simulation/src/build/sensors/install.log --single-version-externally-managed

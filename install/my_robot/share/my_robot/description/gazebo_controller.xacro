@@ -2,7 +2,6 @@
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro"  name="robot">
     <gazebo>
         <plugin name='skid_steer_drive' filename='libgazebo_ros_diff_drive.so'>
-            
     
             <!-- Update rate -->
             <update_rate>500</update_rate>
